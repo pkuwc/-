@@ -1,7 +1,6 @@
 # Table of contents
 
 * [README](README.md)
-* [\[编者序\]（README.md）|](bian-zhe-xu-readme.md.md)
 * [网络安全就业趋势](wang-luo-an-quan-jiu-ye-qu-shi/README.md)
   * [国家政策要求](wang-luo-an-quan-jiu-ye-qu-shi/guo-jia-zheng-ce-yao-qiu.md)
   * [市场发展情况](wang-luo-an-quan-jiu-ye-qu-shi/shi-chang-fa-zhan-qing-kuang.md)
